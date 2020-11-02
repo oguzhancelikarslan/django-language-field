@@ -5684,7 +5684,7 @@ LANGUAGES = (
     ("pyx", _(u"Pyu")),
     ("pyy", _(u"Pyen")),
     ("pzn", _(u"Para Naga")),
-    ("qaa..qtz", _(u"Private use")),
+    ("qaa", _(u"Private use")),
     ("qua", _(u"Quapaw")),
     ("qub", _(u"Huallaga Huánuco Quechua")),
     ("quc", _(u"K'iche'")),
